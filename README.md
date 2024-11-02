@@ -58,7 +58,7 @@ You are requested to submit a report with the following details:
 - Each network node can only be accessed by the administrator, not others.
 
 ## Deadline
-The project is due by **4:00 PM on May 15, 2023**.
+The project due date is 15 days from the announcement.
 
 ## Installation and Usage
 1. Clone the repository to your local machine.
