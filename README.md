@@ -1,4 +1,3 @@
-
 # University IT Centre and Department Network Design
 
 ## Project Overview
@@ -52,13 +51,35 @@ You are requested to submit a report with the following details:
 - Computers in the staff room cannot be accessed from the Network Engineering lab, department office, department meeting room, lecture halls, computer labs, Computer Vision and Machine Learning Lab, Microprocessor Lab, Technical Officers Rooms, and the IT Centre (for security reasons).
 - Computers in the department office cannot be accessed from the staff room, Network Engineering lab, department meeting room, lecture halls, computer labs, Computer Vision and Machine Learning Lab, Microprocessor Lab, Technical Officers Rooms, and the IT Centre.
 
+## Importance of Cisco Packet Tracer
+
+Cisco Packet Tracer is a powerful network simulation tool that allows users to design, configure, and troubleshoot networks in a virtual environment. It is widely used in educational settings to help students understand networking concepts and practice their skills without the need for physical hardware. 
+
+### Benefits of Using Cisco Packet Tracer:
+- **Hands-On Experience:** Provides a practical way to apply theoretical knowledge in a simulated environment.
+- **Visualization:** Helps visualize network topologies and configurations, making it easier to understand complex concepts.
+- **Troubleshooting Skills:** Enhances problem-solving skills by allowing users to simulate network issues and resolve them.
+- **Collaboration:** Facilitates collaborative learning by enabling multiple users to work on the same project.
+
+## Skills Improved Through This Project
+By completing this project using Cisco Packet Tracer, participants will improve the following skills:
+- **Network Design:** Ability to design efficient and scalable network architectures.
+- **Configuration Skills:** Proficiency in configuring routers, switches, and other network devices.
+- **Subnetting:** Understanding of IP addressing and subnetting techniques.
+- **Troubleshooting:** Enhanced troubleshooting skills for diagnosing and resolving network issues.
+- **Documentation:** Skills in documenting network designs and configurations effectively.
+
+## Project Files
+- **Designed Simulation:** [Download the Cisco Packet Tracer simulation](https://github.com/HemakanthNatkunaraja/Computer_Network_configuration/blob/main/2020e050_data%20network.pkt)
+- **Project Report:** [Download the project report](https://github.com/HemakanthNatkunaraja/Computer_Network_configuration/blob/main/Network_designing_forIT_department.pdf)
+
 ## Requirements
 - The printer in the department office can only be accessed by department staff.
 - The printer in the IT Centre printing room can only be accessed by IT Centre staff.
 - Each network node can only be accessed by the administrator, not others.
 
 ## Deadline
-The project due date is 15 days from the announcement.
+The project is due by **4:00 PM on May 15, 2023**.
 
 ## Installation and Usage
 1. Clone the repository to your local machine.
@@ -66,6 +87,7 @@ The project due date is 15 days from the announcement.
 3. Use the provided network diagram for reference.
 
 
-## Acknowledgments
-- University IT Department for providing the project requirements.
 
+## Acknowledgments
+- University IT Department for providing the project requirements .
+- Cisco Packet Tracer documentation for technical references.
