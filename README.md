@@ -65,9 +65,7 @@ The project due date is 15 days from the announcement.
 2. Follow the instructions in the report to configure the network devices.
 3. Use the provided network diagram for reference.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - University IT Department for providing the project requirements.
-- Firebase and ESP32 documentation for technical references.
+
