@@ -1,4 +1,4 @@
-# University IT Centre and Department Network Design
+# University IT Centre and Department Network Design (Using Cisco Packet Tracer)
 
 ## Project Overview
 
